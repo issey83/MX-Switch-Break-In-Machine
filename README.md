@@ -58,9 +58,9 @@ Parts required to purchase:
 # FDM Printed, with improvements
 User replaceable fan, motor, to be used with 12v power supply, or USB QC/PD trigger module for 12v output
 
-![alt text][snapshot]
+![alt text][snapshot2]
 
-[snapshot]: /Images/20220801_144157.jpg "FDM Printed, with fan." 
+[snapshot2]: /Images/20220801_144157.jpg "FDM Printed, with fan." 
 
 ## Utilizing 
 LM2596 power supply module, 
