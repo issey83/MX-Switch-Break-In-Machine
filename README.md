@@ -56,23 +56,23 @@ Parts required to purchase:
 
 ---------------------------------------------------------------------------------------------------------
 # FDM Printed, with improvements
-User replaceable fan, motor, to be used with 12v power supply, or USB QC/PD trigger module for 12v output
+User replaceable fan, motor, to be used with 12v power supply, or USB QC/PD trigger module for 12v output.
 
 ![alt text][snapshot2]
 
 [snapshot2]: /Images/20220801_144157.jpg "FDM Printed, with fan." 
 
 ## Utilizing 
-LM2596 power supply module, 
-QC/PD trigger module, 
-XH 2.54 2pin header, 
-28mm aligator clips,
+LM2596 power supply module 
+QC/PD trigger module
+XH 2.54 2pin header 
+28mm aligator clips
 some soldering work
 you can make this end user friendly, changing parts without soldering.
 
 Changes made to STL files for 3d FDM printing.
 1. Added marking to off center actuation plate, 3/3.5/4mm version. Mix and match to use with different switch's total travel, also to offset some printing errors, if any.
-2. Added fan mount, can be used with m3 x 8mm screw (might strip easy), or use with m3 x 12mm screw for a better hold.
+2. Added fan mount, can be used with m3 x 8mm screw (might strip easy), or use with m3 x 12mm screw for a better hold. Screw length for the fan will depend on thickness of the fan you are getting, and if there's fan guard. for 10mm thick, I use m3 x 16mm.
 3. Added keycap file for FDM printing, more tolerance, fit better. Can be used with dustproof stem as well. Closed of part is for east/west side of the stem, north/south is the leaf/led side of the switch.
 
 You can reach me through discord
