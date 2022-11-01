@@ -55,12 +55,32 @@ Parts required to purchase:
   - Feel free to send me your enquires if you have doubt reproducing a unit for yourself.
 
 ---------------------------------------------------------------------------------------------------------
-# FDM Printed, with improvements
-User replaceable fan, motor, to be used with 12v power supply, or USB QC/PD trigger module for 12v output.
+# FDM Printed, with modifications
+Replaceable fan/motor without soldering, to be used with 12v power supply, or USB QC/PD trigger module for 12v output.
 
 ![alt text][snapshot2]
 
 [snapshot2]: /Images/20220801_144157.jpg "FDM Printed, with fan." 
+
+![alt text][snapshot3]
+
+[snapshot3]: /Images/20221003_125454.jpg "PD/QC trigger, LM2596 with display, new fan mount" 
+
+![alt text][snapshot4]
+
+[snapshot4]: /Images/20221102_024117.jpg "Main housing with brass inserts, cable tie points." 
+
+![alt text][snapshot5]
+
+[snapshot5]: /Images/20221102_024127.jpg "Micro switch location, access hole." 
+
+![alt text][snapshot6]
+
+[snapshot6]: /Images/20221102_024145.jpg "8 digit counter." 
+
+![alt text][snapshot7]
+
+[snapshot7]: /Images/20221102_024512.jpg "Off center plate, with borders, fan mount with brass inserts, 42mm test hook." 
 
 ## Utilizing 
 - QC/PD trigger module for 12v input, because QC/PD power brick better than regular usb port/charger
