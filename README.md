@@ -63,17 +63,32 @@ User replaceable fan, motor, to be used with 12v power supply, or USB QC/PD trig
 [snapshot2]: /Images/20220801_144157.jpg "FDM Printed, with fan." 
 
 ## Utilizing 
-LM2596 power supply module 
-QC/PD trigger module
-XH 2.54 2pin header 
-28mm aligator clips
-some soldering work
+- QC/PD trigger module for 12v input, because QC/PD power brick better than regular usb port/charger
+- LM2596 power supply module for voltage control, controling motor speed
+- 12v 40x10mm fan, should be easy to source, and normally they come in XH connector
+- XH 2.54 2pin header for fan
+- 28mm aligator clips / 42mm test hook
+- M3 x 4mm or M3 x 4.5mm brass inserts for frequent change of gearbox/motor assembly
+- 8 digit counter found on taobao, https://item.taobao.com/item.htm?id=547288386556, I use H7EC-BLM, no need external power, battery last for 3-5 years according to description. 
+- some soldering work
 you can make this end user friendly, changing parts without soldering.
 
 Changes made to STL files for 3d FDM printing.
 1. Added marking to off center actuation plate, 3/3.5/4mm version. Mix and match to use with different switch's total travel, also to offset some printing errors, if any.
+1.1. Added borders on off center plate, to prevent plate to press into main housing and causing arch.
 2. Added fan mount, can be used with m3 x 8mm screw (might strip easy), or use with m3 x 12mm screw for a better hold. Screw length for the fan will depend on thickness of the fan you are getting, and if there's fan guard. for 10mm thick, I use m3 x 16mm.
-3. Added keycap file for FDM printing, more tolerance, fit better. Can be used with dustproof stem as well. Closed of part is for east/west side of the stem, north/south is the leaf/led side of the switch.
+2.1 New fan mount design, closer to motor, using motor's mounting screw, less material needed for printing. Brass insert optional, files provided.
+3. Added keycap file for FDM printing, more tolerance, fit better. Can be used with dustproof stem as well. Closed off part is for east/west side of the stem, opening side face north/south, north/south is the leaf/led side of the switch.
+4. New addition to main housing, some rings for cable management, soldered joint on wire is brittle, might break if they are moved frequent, tie them down. Also some place for fixing a micro switch, I think I got the right side position correct for a micro switch with lever + wheel attached, left side might not be. Use size M2 screw for holding the switch.
+
+How I build and run them.
+1. Ironing enabled for main housing, making sure the floor is flatter than regular printed parts.
+2. Brass inserts, 3x4mm or 3x4.5mm, depth don't really matter, 3-4mm is fine.
+3. Scotch yoke printed in nylon, actuation plate printed in ABS, fan mount printed in nylon/ABS.
+4. Lubricate the floor of main housing, neck of actuation plate, scotch yoke with sw92sa from aliexpress, or any kind of lube for plastic (205g0 works too, expensive).
+5. Lubricate internals of gearbox with PTFE dry lube from WD-40, or any spray lube for plastic.
+
+Good luck and have fun building.
 
 You can reach me through discord
 issey83's corner - https://discord.gg/jTNPmTvsRC
