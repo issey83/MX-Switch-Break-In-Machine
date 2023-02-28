@@ -108,6 +108,27 @@ How I build and run them.
 4. Lubricate the floor of main housing, neck of actuation plate, scotch yoke with sw92sa from aliexpress, or any kind of lube for plastic (205g0 works too, expensive).
 5. Lubricate internals of gearbox with PTFE dry lube from WD-40, or any spray lube for plastic.
 
+
+# JGA25-370 motor housing, mounting, scotch yoke update
+Using a more powerful motor, this should be able to run 36x cherry hg black 80g easy, and require a lot less motor replacement (TT motors)
+Updated: Main housing, actuation plate housing lock, motor mounting plate, scotch yoke, bearing
+Retained: Switch carriage, actuation plate, off center actuation plate, flat profile keycaps
+
+Parts list to purchase:
+
+1. JGA25-370 - https://item.taobao.com/item.htm?id=691467377622
+I'm using 12v 282rpm myself, with voltage control, 200rpm to 300rpm, translate to 400-600 actuations per minute, 576k to 864k actuations per 24 hour.
+12v 169rpm and 282rpm should work fine, I'm not sure about 6v, you should test this yourself if you want to run it with direct usb power.
+
+2. Small bearing with screw embedded - https://item.taobao.com/item.htm?id=672727759613
+I've found that the previous bearing choice has a bit too much wobble/free-play, and if fastened tight, the bearing won't spin, if not fastened tight, screw may dislodge over time. This new one allows tightening and a lot less free-play, less maintenance.
+
+Special durable material choice:
+Nylon: actuation plate, scotch yoke, they last very long compared to PLA and ABS. Haven't tried PETG yet, YMMV.
+High temperature resistant material: motor mounting plate. It might get hot, just in case.
+Everything else can be printed in cheap PLA, and last quite some time.
+
+
 Good luck and have fun building.
 
 You can reach me through discord
