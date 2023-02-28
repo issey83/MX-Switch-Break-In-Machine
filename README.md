@@ -132,23 +132,23 @@ Everything else can be printed in cheap PLA, and last quite some time.
 
 [snapshot8]: /Images/20230223_011432.jpg "My setup/config, with fan, voltage control, double 8 digit counter." 
 
-![alt text][snapshot8]
+![alt text][snapshot9]
 
 [snapshot9]: /Images/20230228_090258.jpg "Cheap SW-92SA lube." 
 
-![alt text][snapshot8]
+![alt text][snapshot10]
 
 [snapshot10]: /Images/20230228_090425.jpg "JGA25-370." 
 
-![alt text][snapshot8]
+![alt text][snapshot11]
 
 [snapshot11]: /Images/20230228_090528.jpg "New scotch yoke and bearings." 
 
-![alt text][snapshot8]
+![alt text][snapshot12]
 
 [snapshot12]: /Images/20230228_100809.jpg "Lube between actuation plate and scotch yoke." 
 
-![alt text][snapshot8]
+![alt text][snapshot13]
 
 [snapshot13]: /Images/20230228_100818.jpg "Scotch yoke should sit flush with motor shaft." 
 
