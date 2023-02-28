@@ -121,6 +121,7 @@ I'm using 12v 282rpm myself, with voltage control, 200rpm to 300rpm, translate t
 12v 169rpm and 282rpm should work fine, I'm not sure about 6v, you should test this yourself if you want to run it with direct usb power.
 
 2. Small bearing with screw embedded - https://item.taobao.com/item.htm?id=672727759613
+JS6837-3C1L6M3
 I've found that the previous bearing choice has a bit too much wobble/free-play, and if fastened tight, the bearing won't spin, if not fastened tight, screw may dislodge over time. This new one allows tightening and a lot less free-play, less maintenance.
 
 Special durable material choice:
